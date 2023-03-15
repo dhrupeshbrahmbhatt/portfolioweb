@@ -7,10 +7,10 @@ export const Hero_section = () => {
         <section className="maincontent">
         <div className="content-1">
             <ul className="listvertical">
-                <li><a href="#" className="listitem"><i className="fa-brands fa-github" /></a></li>
-                <li><a href="#" className="listitem"><i className="fa-brands fa-instagram" /> </a></li>
-                <li><a href="#" className="listitem"><i className="fa-brands fa-twitter" /></a></li>
-                <li><a href="#" className="listitem"><i className="fa-brands fa-linkedin" /></a></li>
+                <li><a href="https://github.com/dhrupeshbrahmbhatt" className="listitem"><i className="fa-brands fa-github" /></a></li>
+                <li><a href="https://www.instagram.com/dhrupesh_brahmbhatt/" className="listitem"><i className="fa-brands fa-instagram" /> </a></li>
+                <li><a href="https://twitter.com/Dhrupesh840" className="listitem"><i className="fa-brands fa-twitter" /></a></li>
+                <li><a href="https://www.linkedin.com/in/dhrupesh-brahmbhatt-a45656237/" className="listitem"><i className="fa-brands fa-linkedin" /></a></li>
             </ul>
         </div>
         <div className="content-2">
