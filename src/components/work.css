@@ -22,12 +22,12 @@
 .project_photo {
     width: 700px;
     height: 438px;
-    opacity: 1.0;
+    opacity: 0.2;
     transition: opacity 0.3s ease-in-out;
     border-radius: 10%;
 }
 .project_photo:hover {
-    opacity: 0.5;
+    opacity: 1;
     transition: opacity 0.3s ease-in-out;
 }
 .project_photo:hover::after {
