@@ -6,14 +6,26 @@
 .section_title {
     color: var(--text-color-2);
     margin-bottom: 100px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 35px;
+    font-family: Calibre;
 }
 .project_type {
     color: var(--text-color-1);
     margin: 0px 0px 15px 290px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: SF Mono Medium Regular;
 }
 .project_title {
     color: var(--text-color-2);
     margin: 150px 0px 0px 280px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 31px;
+    font-family: Calibre;
 }
 .grid_div {
     display: grid;
@@ -51,7 +63,12 @@
     background-color: var(--background-color-4);
     color: var(--text-color-3);
     padding: 20px 20px 20px 25px;
+    font-family: Calibre;
 }
 .link_code {
     margin: 0px 0px 0px 340px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: SF Mono Medium Regular;
 }

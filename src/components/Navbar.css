@@ -66,7 +66,7 @@ button:hover {
     background-color: var(--background-color-4);
 }
 nav {
-    font-family: SF Mono;
+    font-family: SF Mono Medium;
     position: sticky;
 }
 .X_icon {

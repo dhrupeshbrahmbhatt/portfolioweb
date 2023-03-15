@@ -80,7 +80,7 @@
     bottom: 3px;
 }
 .hero-section-button {
-    font-family: SF Mono;
+    font-family: SF Mono Medium;
     font-size: 20px;
 }
 @media only screen and (max-width: 600px) {
