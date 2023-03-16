@@ -83,3 +83,35 @@
     position: relative;
     left: 50%;
 }
+@media only screen and (max-width: 600px) {
+    .card {
+        margin: 0;
+    }
+    .project_photo {
+        width: 300px;
+        height: 100%;
+        left: 12%;
+        position: relative;
+        background-color: var(--background-color-4);
+    }
+    .info_div {
+        display: inline-block;
+        position: absolute;
+        align-items: center;
+        margin: 0;
+    }
+    .project_type {
+        margin: 30px 0px 0px 45px;
+    }
+    .project_title {
+        margin: 0px 0px 0px 45px;
+    }
+    .project_p {
+        width: 300px;
+        padding: 0;
+        margin: 55px 0px 0px 41px;
+    }
+    .link-container {
+        margin: 160px 0px 0px 70px;
+    }
+}

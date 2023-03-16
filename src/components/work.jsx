@@ -8,7 +8,7 @@
                 <h2 className="section_title">Some Things I've Built</h2>
             </div>
             <div className="grid_div">
-                <div>
+                <div className="img_div">
                     <img src="../../public/project.jpg" alt="Work Image" className="project_photo" />
                 </div>
                 <div className="info_div">
