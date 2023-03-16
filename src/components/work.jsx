@@ -3,7 +3,7 @@
 
  export const Work = () => {
     return (
-        <div className="card">
+        <div className="card" id="Work">
             <div>
                 <h2 className="section_title">Some Things I've Built</h2>
             </div>
@@ -19,8 +19,10 @@
                         Piano Tales is a captivating musical journey through the world of piano music, featuring beautiful melodies and emotional performances.
                         </p>
                     </div>
-                    <a href="#" className="link_code">Vs Code</a>
-                    <li><a href="https://github.com/dhrupeshbrahmbhatt" className="projecticon"><i className="fa-brands fa-github" /></a></li>
+                    <div className="link-container">
+                        <a href="#" className="link_code">Vs Code</a>
+                        <a href="https://github.com/dhrupeshbrahmbhatt" className="projecticon"><i className="fa-brands fa-github" /></a>
+                    </div>                   
                 </div>
             </div>
         </div>

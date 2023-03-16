@@ -34,7 +34,7 @@
 .project_photo {
     width: 700px;
     height: 438px;
-    opacity: 0.2;
+    opacity: 0.7;
     transition: opacity 0.3s ease-in-out;
     border-radius: 10%;
 }
@@ -64,6 +64,7 @@
     color: var(--text-color-3);
     padding: 20px 20px 20px 25px;
     font-family: Calibre;
+    position: absolute;
 }
 .link_code {
     margin: 0px 0px 0px 340px;
@@ -71,4 +72,14 @@
     font-weight: 400;
     line-height: 17px;
     font-family: SF Mono Medium Regular;
+}
+.link-container {
+    top: 35%;
+    position: relative;
+    justify-content: space-between;
+}
+.link-container a {
+    margin: 0px 20px;
+    position: relative;
+    left: 50%;
 }
