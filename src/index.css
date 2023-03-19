@@ -20,7 +20,9 @@ code {
     --background-color-6: #0a192f;
     --background-color-7: #0a192fd9;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 ::-webkit-scrollbar {
     width: 10px;
 }

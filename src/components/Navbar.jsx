@@ -4,7 +4,7 @@ import "../components/Navbar.css";
 export const Navbar = () => {
   return (
     <div>
-        <nav className="container">
+        <nav className="container" role={"navigation"}>
             <div className="container-1">
                 <h4>Dhrupesh</h4>
             </div>

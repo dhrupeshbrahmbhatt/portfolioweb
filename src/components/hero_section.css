@@ -18,6 +18,7 @@
     flex-direction: column;
     font-size: 20px;
     list-style: none;
+    margin: 140px 0px 0px;
 }
 
 .listitem {
@@ -70,7 +71,7 @@
     font-weight: 400;
     position: relative;
     writing-mode: vertical-rl;
-    margin-top: 255px;
+    margin-top: 380px;
     margin-right: 50px;
     color: var(--text-color-3);
     transition: 0.3s;
@@ -140,7 +141,7 @@ hr {
     border:2px;
 }
 .link-hr {
-    top: 90%;
+    top: 95%;
     right: 90.6%;
     width: 150px;
     position: fixed;

@@ -67,7 +67,7 @@ button:hover {
 }
 nav {
     font-family: SF Mono Medium;
-    position: sticky;
+    position: fixed;
 }
 .X_icon {
     display: none;
