@@ -114,4 +114,8 @@
     .link-container {
         margin: 160px 0px 0px 70px;
     }
+    .section_title {
+        font-size: 30px;
+        margin: 60px 48px 100px;
+    }
 }
