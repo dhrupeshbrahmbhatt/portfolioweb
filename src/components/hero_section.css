@@ -11,7 +11,7 @@
     position: fixed;
 }
 .content-2 {
-    margin: 95px 0px 80px 150px;
+    margin: 180px 0px 80px 150px;
 }
 .listvertical {
     display: flex;
@@ -107,12 +107,14 @@
         font-size: 40px;
         font-weight: 600;
         line-height: 44px;
+        margin-bottom: 5%;
     }
     .work {
         font-size: 40px;
         font-weight: 600;
         line-height: 36px;
         width: 350px;
+        margin-bottom: 10%;
     }
     .statement {
         font-size: 18px;

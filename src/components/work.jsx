@@ -3,7 +3,7 @@
 
  export const Work = () => {
     return (
-        <div className="card" id="Work">
+        <div className="work-card" id="Work">
             <div>
                 <h2 className="section_title">Some Things I've Built</h2>
             </div>

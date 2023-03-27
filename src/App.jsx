@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import "./index";
 import { Navbar } from "../src/components/Navbar";
 import { Hero_section } from "../src/components/hero_section";
 import { About } from "../src/components/about";

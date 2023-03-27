@@ -16,7 +16,7 @@ export const Hero_section = () => {
         <hr className="link-hr"/>
         <div className="content-2">
             <div>
-                <h1 className="intro">Hi, my name is</h1>
+                <h1 className="text-red-600">Hi, my name is</h1>
             </div>
             <div>
                 <h2 className="name">Dhrupesh Brahmbhatt.</h2>

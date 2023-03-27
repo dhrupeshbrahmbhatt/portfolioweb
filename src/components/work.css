@@ -1,6 +1,6 @@
 @import url('./fonts.css');
 
-.card {
+.work-card {
     margin: 270px 0px 30px 190px;
 }
 .section_title {
@@ -88,34 +88,37 @@
         margin: 0;
     }
     .project_photo {
+        display: none;
         width: 300px;
         height: 100%;
-        left: 12%;
+        right: 50%;
         position: relative;
         background-color: var(--background-color-4);
     }
-    .info_div {
-        display: inline-block;
-        position: absolute;
-        align-items: center;
+    .section_title {
+        position: relative;
+        right: 70%;
+        width: 315px;
         margin: 0;
     }
     .project_type {
-        margin: 30px 0px 0px 45px;
+        position: relative;
+        right: 34%;
     }
     .project_title {
-        margin: 0px 0px 0px 45px;
+        position: relative;
+        right: 30%;
     }
     .project_p {
-        width: 300px;
-        padding: 0;
-        margin: 55px 0px 0px 41px;
+        position: relative;
+        left: 10%;
+        padding: 20px 50px 20px;
+        background-color: var(--background-color-5);
     }
     .link-container {
-        margin: 160px 0px 0px 70px;
-    }
-    .section_title {
-        font-size: 30px;
-        margin: 60px 48px 100px;
+        margin: 0;
+        position: relative;
+        right: 20%;
+        top: 1%;
     }
 }
