@@ -27,12 +27,14 @@
     overflow: hidden;
     justify-content: space-between;
     list-style: circle;
+    margin: 40px 0px 0px;
 }
 
 .about-title {
     font-size: 32px;
     font-weight: 600;
     font-family: Calibre;
+    margin-bottom: 30px;
 }
 .about-img {
     width: 250px;

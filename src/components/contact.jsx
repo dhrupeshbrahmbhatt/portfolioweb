@@ -20,6 +20,10 @@ export const Contact = () => {
                     <a href="mailto:">say Hello</a>
                 </button>
             </div>
+            <div className="footer_div">
+                <p className="footer_P">Design by Dhrupesh</p>
+            </div>
         </div>
+        
     )
 }

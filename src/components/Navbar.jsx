@@ -9,7 +9,7 @@ export const Navbar = () => {
         if(prevScrollpos > currentScrollpos){
             document.getElementById("nav").style.top = "0";
         }else {
-            document.getElementById("nav").style.top = "-50px";
+            document.getElementById("nav").style.top = "-100px";
         }
         prevScrollpos = currentScrollpos;
     }

@@ -78,6 +78,11 @@ nav {
 .Bars_icon {
     display: none;
 }
+.flex {
+    display: flex;
+    padding: 0px 5px;
+    margin: 10px 8px 20px;
+}
 
 @media only screen and (max-width: 600px){
         .container {
@@ -119,7 +124,8 @@ nav {
         position: absolute;
         top: 0;
         left: 300px;
-        margin: 8% 20px 0px 0px;
+        padding: 0px 10px 0px;
+        margin: 10% 20px 0px 5%;
         cursor: pointer;
        }
 }

@@ -28,6 +28,9 @@ code {
 html {
     scroll-behavior: smooth;
 }
+button {
+    color: #ccd6f6;
+}
 ::-webkit-scrollbar {
     width: 10px;
 }

@@ -13,7 +13,6 @@ export const Hero_section = () => {
                 <li><a href="https://www.linkedin.com/in/dhrupesh-brahmbhatt-a45656237/" className="listitem"><i className="fa-brands fa-linkedin" /></a></li>
             </ul>
         </div>
-        <hr className="link-hr"/>
         <div className="content-2">
             <div>
                 <h1 className="intro">Hi, my name is</h1>
@@ -39,7 +38,6 @@ export const Hero_section = () => {
         </div>
         <div className="content-3">
             <a href="mailto:dhrupesh840@gmail.com" className="mail">dhrupesh840@gmail.com</a>
-            <hr className="mail-hr"/>
         </div>
         </section>
     );

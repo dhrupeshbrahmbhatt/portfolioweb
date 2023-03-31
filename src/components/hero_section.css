@@ -11,14 +11,14 @@
     position: fixed;
 }
 .content-2 {
-    margin: 180px 0px 80px 150px;
+    margin: 180px 0px 140px 180px;
 }
 .listvertical {
     display: flex;
     flex-direction: column;
     font-size: 20px;
     list-style: none;
-    margin: 130px 0px 0px;
+    margin: 220% 0px 0px;
 }
 
 .listitem {
@@ -67,7 +67,7 @@
     left: 95%;
 }
 .mail {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     position: relative;
     writing-mode: vertical-rl;
@@ -83,6 +83,8 @@
 .hero-section-button {
     font-family: SF Mono Medium;
     font-size: 20px;
+    padding: 5px 10px;
+    margin: 20px 10px 10px;
 }
 @media only screen and (max-width: 600px) {
     .mail {
@@ -127,29 +129,4 @@
         font-weight: 400;
         line-height: 23px;
     }
-    hr {
-        display: none;
-    }
-}
-
-hr {
-    background-color: var(--background-color-1);
-    color: var(--text-color-2);
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-    position: relative;
-    width:100px;
-    height:2px;
-    border:2px;
-}
-.link-hr {
-    top: 95%;
-    right: 90.6%;
-    width: 150px;
-    position: fixed;
-}
-.mail-hr {
-    right: 90px;
-    top: 110px;
-    width: 200px;
 }

@@ -7,7 +7,6 @@ import { About } from "../src/components/about";
 import { Contact } from "../src/components/contact";
 import { Work } from "../src/components/work";
 
-
 function App() {
   return (
     <div className="contanier">
@@ -15,7 +14,7 @@ function App() {
         <Hero_section />
         <About />
         <Work />
-        <Contact />
+        <Contact /> 
     </div>
   );
 }
